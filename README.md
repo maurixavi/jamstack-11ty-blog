@@ -1,6 +1,6 @@
 # JAMStack personal blog 
 
-This is a personal blog website built using the JAMstack architecture and the Eleventy static site generator. 
+This is a personal blog website built using the JAMstack architecture and the Eleventy static site generator, with content managed by a CMS.
 
 [Eleventy](https://www.11ty.dev/): A static site generator that uses JavaScript templating to build static websites.
 
