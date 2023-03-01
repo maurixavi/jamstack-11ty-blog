@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/maurixavi/jamstack-11ty-blog/issues"
   },
-  "homepage": "https://github.com/maurixavi/jamstack-11ty-blog#readme"
+  "homepage": "https://github.com/maurixavi/jamstack-11ty-blog#readme",
+  "devDependencies": {
+    "eleventy": "^1.0.6"
+  }
 }
