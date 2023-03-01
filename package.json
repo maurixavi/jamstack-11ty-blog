@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/maurixavi/jamstack-11ty-blog#readme",
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.0",
     "eleventy": "^1.0.6"
   }
 }
