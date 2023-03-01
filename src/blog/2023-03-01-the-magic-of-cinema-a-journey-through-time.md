@@ -14,7 +14,7 @@ tags:
   - featured
 date: 2023-03-01T19:36:41.577Z
 image: /assets/blog/movie-theater-during-the-screening-of-an-animated-movie.jpg_s1024x1024wisk20cyacysthckqgdnjr_cjdmmpc9tcsx7_vhnloamkn74-8-1170x600.jpg
-imageAlt: movie theather
+imageAlt: movie theater
 ---
 <!--StartFragment-->
 
