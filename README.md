@@ -4,6 +4,8 @@ This is a personal blog website built using the JAMstack architecture and the El
 
 Blog URL: https://personalblogwithcms.netlify.app/
 
+![CMS](design-files/mockup-CMS-blog-articles.png)
+
 #### Technologies Used
 
 [Eleventy](https://www.11ty.dev/): A static site generator that uses JavaScript templating to build static websites.
