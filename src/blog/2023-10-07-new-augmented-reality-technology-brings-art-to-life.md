@@ -6,7 +6,6 @@ description: In the ever-evolving landscape of technology, one innovation is
 author: Carlos Xavier
 tags:
   - post
-  - featured
 date: 2023-09-23T19:21:18.586Z
 image: /assets/blog/post-2.jpg.jpg
 imageAlt: " "
