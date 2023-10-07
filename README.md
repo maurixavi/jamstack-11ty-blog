@@ -2,7 +2,7 @@
 
 This is a personal blog website built using the JAMstack architecture and the Eleventy static site generator, with content managed by a CMS.
 
-Blog URL: https://multiusersblogwithcms.netlify.app/
+Blog URL: https://personalblogwithcms.netlify.app/
 
 #### Technologies Used
 
