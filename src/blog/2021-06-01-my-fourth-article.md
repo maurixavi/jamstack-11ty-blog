@@ -1,9 +1,9 @@
 ---
 title: "Embracing Digital Minimalism: Simplify Your Life in the Digital Age"
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
+description: In today's hyperconnected world, we are inundated with digital
+  information, devices, and distractions. Many of us find ourselves constantly
+  tethered to our smartphones, drowning in a sea of notifications, and
+  feeling...
 author: Mauricio X.
 tags:
   - featured
