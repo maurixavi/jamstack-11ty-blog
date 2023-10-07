@@ -2,8 +2,14 @@
 
 This is a personal blog website built using the JAMstack architecture and the Eleventy static site generator, with content managed by a CMS.
 
-[Eleventy](https://www.11ty.dev/): A static site generator that uses JavaScript templating to build static websites.
+Blog URL: https://celadon-eclair-6d56f9.netlify.app/
 
+
+#### Technologies Used
+
+[Eleventy](https://www.11ty.dev/): A static site generator that uses JavaScript templating to build static websites.
+[Netlify](https://www.netlify.com/): A hosting and serverless backend platform that provides continuous deployment, form handling, and other features for static websites.
+[Netlify CMS](https://www.netlifycms.org/): A content management system that integrates with Netlify and allows you to manage your website content in a user-friendly interface.
 
 #### Running the Website Locally
 To run the website locally on your computer, you will need to have Node.js and npm installed. Then, follow these steps:
