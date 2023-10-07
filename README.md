@@ -2,8 +2,7 @@
 
 This is a personal blog website built using the JAMstack architecture and the Eleventy static site generator, with content managed by a CMS.
 
-Blog URL: https://celadon-eclair-6d56f9.netlify.app/
-
+Blog URL: https://multiusersblogwithcms.netlify.app/
 
 #### Technologies Used
 
