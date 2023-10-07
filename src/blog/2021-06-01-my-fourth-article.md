@@ -7,7 +7,7 @@ description: In today's hyperconnected world, we are inundated with digital
 author: Mauricio X.
 tags:
   - featured
-date: 2023-09-07T03:00:00.000Z
+date: 2023-10-05T03:00:00.000Z
 image: /assets/blog/article-4.jpg
 imageAlt: " "
 ---
