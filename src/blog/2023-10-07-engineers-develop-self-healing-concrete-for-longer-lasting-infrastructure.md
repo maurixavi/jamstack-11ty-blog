@@ -7,6 +7,7 @@ description: Engineers have long been focused on developing new technologies
 author: Mauricio X.
 tags:
   - post
+  - featured
 date: 2023-10-01T19:11:55.148Z
 image: /assets/blog/post-5.jpg
 imageAlt: Engineers Develop Self-Healing Concrete for Longer-Lasting Infrastructure
